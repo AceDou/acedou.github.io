@@ -4,7 +4,7 @@
 ### 职业认证
 1. 软件国际认证/ISTQB  
 [中国软件测试认证委员会:ISTQB](http://www.cstqb.cn/16/4/1797/show.html)  
-2. 软件评测师/软件测评师
+2. 软件评测师/软件测评师  
 [百度百科: 软件评测师](https://baike.baidu.com/item/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%84%E5%B8%88/3921840?fr=aladdin)  
 
 ### 行业资料
