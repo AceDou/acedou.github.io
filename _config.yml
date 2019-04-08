@@ -17,8 +17,8 @@ recent_num: 20
 github: AceDou
 
 # avatar and Favicon
-avatar: https://acedou.github.io/site-avatar.png
-favicon: https://acedou.github.io/site-favicon.ico
+avatar: https://acedou.github.io/assets/img/avatar.jpg
+favicon: https://acedou.github.io/assets/img/favicon.ico
 
 # disqus config
 disqus:
