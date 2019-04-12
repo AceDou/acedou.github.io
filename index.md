@@ -1,8 +1,8 @@
 ---
-title: 关于埃斯豆
+title: 关于AceDou
 layout: post
 category: 我
-keywords: 埃斯豆，窦献策，AceDou
+keywords: AceDou，窦献策，阿策
 ---
 
 ### 我是谁
