@@ -13,7 +13,7 @@ tags: 测试开发，Java，Python
 [Python 3 教程](http://www.runoob.com/python3/python3-tutorial.html)  
 [Python教程:廖雪峰](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  
 [PythonTab:Python基础教程](https://www.pythontab.com/html/pythonjichu/)  
-[PythonTab:Python高级教程])(https://www.pythontab.com/html/pythonhexinbiancheng/)  
+[PythonTab:Python高级教程](https://www.pythontab.com/html/pythonhexinbiancheng/)  
 
 ### 相关资源
 [Node.js 教程](http://www.runoob.com/nodejs/nodejs-tutorial.html)  
